@@ -1,0 +1,17 @@
+{
+  "name": "petshop-filhos-de-pelos-api",
+  "version": "1.0.0",
+  "description": "API para consulta de produtos do Pet Shop Filhos de Pêlos",
+  "type": "module",
+  "main": "api/produtos.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build completed'"
+  },
+  "keywords": ["petshop", "api", "produtos"],
+  "author": "Pet Shop Filhos de Pêlos",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
