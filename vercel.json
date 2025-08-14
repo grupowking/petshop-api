@@ -1,13 +1,7 @@
 {
   "functions": {
-    "api/produtos.js": {
+    "api/*.js": {
       "maxDuration": 10
     }
-  },
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/api/$1"
-    }
-  ]
+  }
 }
