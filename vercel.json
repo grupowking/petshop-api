@@ -1,7 +1,8 @@
 {
   "functions": {
-    "api/*.js": {
+    "api/produtos.js": {
       "maxDuration": 10
     }
-  }
+  },
+  "outputDirectory": "."
 }
